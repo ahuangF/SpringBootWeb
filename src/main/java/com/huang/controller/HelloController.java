@@ -17,6 +17,10 @@ public class HelloController {
 			HttpServletResponse response) {
 
     	System.out.println("Controller run!");
+    	
+    	
+    	
+    	
 		// 设置编码
 //		response.setContentType("text/html;charset=utf-8");
 //    	userService.update(user);
